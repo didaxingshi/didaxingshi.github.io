@@ -1,0 +1,34 @@
+h1 {
+    color:rgb(134, 221, 217);
+    text-align:center;
+    font-style: italic;
+}
+
+p {
+    margin-left:20px;
+}
+
+.ribbon {
+    margin-top: 5%;
+    text-align:right;
+    font-size: large;
+}
+
+.ribbon-sub {
+    margin-right: 1%;
+}
+.ribbon-left-sub {
+    margin-right: 5%;
+}
+body { min-height: 90vh; }
+body {
+    background-image:url("/img/IMG_1.JPG");
+}
+
+.sent {
+    font-family: Simsun;
+    font-style: italic;
+    color:rgb(212, 143, 224);
+    font-size: x-large;
+    margin-top: 33%;
+}
